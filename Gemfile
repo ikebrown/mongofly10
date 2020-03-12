@@ -7,8 +7,11 @@ ruby '2.6.3'
 gem 'rails', '~> 6.0.2', '>= 6.0.2.1'
 # Use sqlite3 as the database for Active Record
 #gem 'sqlite3', ''
+gem 'sqlite3', '~> 1.4'
 #gem install sqlite3 -v '1.
-gem 'sqlite3', '~> 1.4.2'
+#gem 'sqlite3', '~> 1.4.2'
+#gem 'sqlite3', '~> 1.3.6' 
+
 
 ##gem 'sqlite3', '~> 1.4.2'
 
